@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Customer Interaction Center API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AndileH
+Implementation-Vendor-Id: za.co.eoh.andile.cic
+Build-Jdk: 1.8.0
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cic-api
+Created-By: Maven Integration for Eclipse
+
